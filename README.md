@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://banner2.cleanpng.com/20190618/yhi/kisspng-logo-movistar-brand-trademark-product-rstudio-icon-free-of-papirus-apps-5d08d887815bb1.5167350915608608075299.jpg" alt="r" width="40" height="40"/> 
+    <img src="https://ibb.co/0ZqWHKJ" alt="r" width="40" height="40"/> 
 </a>
      
 
