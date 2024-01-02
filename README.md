@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vitor Marinho</h1>
+<h3 align="center">A Economist and data scientist from Brazil</h3>
 
-<!--
-**vitor-marinho-fjp/vitor-marinho-fjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vit0rm&label=Profile%20views&color=0e75b6&style=flat" alt="vit0rm" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Fundação João Pinheiro [Indicadores Sociais](https://rpubs.com/fjp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning *Ph.D. student in Economics*
+
+- 👯 I’m looking to collaborate on [LACAM](https://figshare.com/articles/dataset/Tabelas_de_Recusos_e_Usos_do_Par_de_2017/23291702)
+
+- 📫 How to reach me *vitormarinho@cedeplar.ufmg.br*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vitor-marinho-a4b742242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-marinho-a4b742242" height="30" width="40" /></a>
+<a href="https://instagram.com/vit0rmarinh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vit0rmarinh0" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vit0rm&show_icons=true&locale=en&layout=compact" alt="vit0rm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vit0rm&show_icons=true&locale=en" alt="vit0rm" /></p>
