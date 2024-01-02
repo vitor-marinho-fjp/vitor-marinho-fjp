@@ -22,7 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vit0rm&show_icons=true&locale=en&layout=compact" alt="vit0rm" /></p>
             
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <i class="devicon-r-original"></i>
+</a>
+       
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vit0rm&show_icons=true&locale=en" alt="vit0rm" /></p>
