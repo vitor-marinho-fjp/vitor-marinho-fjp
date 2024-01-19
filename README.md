@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Fundação João Pinheiro [Indicadores Sociais](https://rpubs.com/fjp)
 
-- 🌱 I’m currently learning *Ph.D. student in Economics*
+- 🌱 I’m currently learning *Ph.D. student in Economics (CEDEPLAR)*
 
 - 👯 I’m looking to collaborate on [LACAM](https://figshare.com/articles/dataset/Tabelas_de_Recusos_e_Usos_do_Par_de_2017/23291702)
 
