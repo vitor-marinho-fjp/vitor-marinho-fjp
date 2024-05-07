@@ -2,11 +2,12 @@
 <h3 align="center">A Economist and data scientist from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vit0rm&label=Profile%20views&color=0e75b6&style=flat" alt="vit0rm" /> </p>
-- 👨🏿‍🏫 I’m a currently Research Assistant at IPEA [CTS](https://www.ipea.gov.br/cts/pt/)
+- 👨🏿‍💻 I’m a currently Research Assistant at IPEA [CTS](https://www.ipea.gov.br/cts/pt/)
+
+- 🧑🏿‍🎓 I’m currently learning *Ph.D. student in Economics (CEDEPLAR)*
 
 - 🕵🏿 I’m  worked at Fundação João Pinheiro [Indicadores Sociais](https://rpubs.com/fjp)
 
-- 🧑🏿‍🎓 I’m currently learning *Ph.D. student in Economics (CEDEPLAR)*
 
 - 👥️ I’m looking to collaborate on [LACAM](https://figshare.com/articles/dataset/Tabelas_de_Recusos_e_Usos_do_Par_de_2017/23291702)
 
