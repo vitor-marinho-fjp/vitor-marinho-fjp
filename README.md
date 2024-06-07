@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vit0rm&label=Profile%20views&color=0e75b6&style=flat" alt="vit0rm" /> </p>
 
-- 🧑🏿‍🎓 I’m currently learning *Ph.D. student in Economics (CEDEPLAR)*
+- 🧑🏿‍🎓 I’m *Ph.D. student in Economics (CEDEPLAR)*
 
 - 🕵🏿 I’m  worked at Fundação João Pinheiro [Indicadores Sociais](https://rpubs.com/fjp)
 
